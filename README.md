@@ -1,5 +1,9 @@
 # Awesome MCP Servers - Concise List
 
+<!-- bmc:front -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:front -->
+
 Note that this list is continuously updating and improving. Please star this repo if you find it useful – it's worth bookmarking!
 
 ### 📂 Browser Control
@@ -143,6 +147,10 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[@mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server): Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
 -   **[@mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** [![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)](https://github.com/mastra-ai/mastra/tree/main/packages/mcp): Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
 
+<!-- bmc:middle -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:middle -->
+
 ### 🧮 Data Science Tools
 
 -   **[ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChronulusAI/chronulus-mcp?style=social)](https://github.com/ChronulusAI/chronulus-mcp): Uses Chronulus AI for forecasting and predictions.
@@ -260,7 +268,6 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer)** [![GitHub stars](https://img.shields.io/github/stars/0xshellming/mcp-summarizer?style=social)](https://github.com/0xshellming/mcp-summarizer): Provides AI summarization for multiple content types.
 -   **[SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver)** [![GitHub stars](https://img.shields.io/github/stars/SecretiveShell/MCP-timeserver?style=social)](https://github.com/SecretiveShell/MCP-timeserver): Provides the current time in any timezone.
 
-
 ## Star History
 
 <a href="https://www.star-history.com/#MobinX/awesome-mcp-list&Date">
@@ -271,6 +278,6 @@ Note that this list is continuously updating and improving. Please star this rep
  </picture>
 </a>
 
-## Support
-
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dayongfan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/dayongfan)
+<!-- bmc:end -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:end -->
